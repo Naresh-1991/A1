@@ -1,3 +1,3 @@
 # A1
-this is the git example
-apple
+This is the GIT practice Session
+
